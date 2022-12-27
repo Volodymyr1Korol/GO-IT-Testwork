@@ -82,7 +82,7 @@
 }
 
 .Active {
-
+  composes: Button;
   background-color: #5CD3A8;
 
 }
