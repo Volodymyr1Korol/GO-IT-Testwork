@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/GO_IT-test-task/static/css/main.e1513dec.css",
-    "main.js": "/GO_IT-test-task/static/js/main.d03e6835.js",
-    "static/media/Hansel.svg": "/GO_IT-test-task/static/media/Hansel.719b7540e05a62ee49564a12d98fbc24.svg",
-    "static/media/Montserrat-SemiBold.ttf": "/GO_IT-test-task/static/media/Montserrat-SemiBold.d5e0cc788cba9ced1fb9.ttf",
-    "static/media/Montserrat-Medium.ttf": "/GO_IT-test-task/static/media/Montserrat-Medium.c86e3b9010ff63c99166.ttf",
-    "static/media/picture.png": "/GO_IT-test-task/static/media/picture.34e32962ae5a68310ba7.png",
-    "index.html": "/GO_IT-test-task/index.html",
-    "main.e1513dec.css.map": "/GO_IT-test-task/static/css/main.e1513dec.css.map",
-    "main.d03e6835.js.map": "/GO_IT-test-task/static/js/main.d03e6835.js.map"
+    "main.css": "/GO-IT-Testwork/static/css/main.fe62e13b.css",
+    "main.js": "/GO-IT-Testwork/static/js/main.7acd0eb7.js",
+    "static/media/Hansel.svg": "/GO-IT-Testwork/static/media/Hansel.719b7540e05a62ee49564a12d98fbc24.svg",
+    "static/media/Montserrat-SemiBold.ttf": "/GO-IT-Testwork/static/media/Montserrat-SemiBold.d5e0cc788cba9ced1fb9.ttf",
+    "static/media/Montserrat-Medium.ttf": "/GO-IT-Testwork/static/media/Montserrat-Medium.c86e3b9010ff63c99166.ttf",
+    "static/media/picture.png": "/GO-IT-Testwork/static/media/picture.34e32962ae5a68310ba7.png",
+    "index.html": "/GO-IT-Testwork/index.html",
+    "main.fe62e13b.css.map": "/GO-IT-Testwork/static/css/main.fe62e13b.css.map",
+    "main.7acd0eb7.js.map": "/GO-IT-Testwork/static/js/main.7acd0eb7.js.map"
   },
   "entrypoints": [
-    "static/css/main.e1513dec.css",
-    "static/js/main.d03e6835.js"
+    "static/css/main.fe62e13b.css",
+    "static/js/main.7acd0eb7.js"
   ]
 }
